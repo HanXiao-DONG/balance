@@ -1,3 +1,3 @@
-module github.com/HanXiao-DONG/balance/v0.0.5
+module github.com/HanXiao-DONG/balance
 
 go 1.14
