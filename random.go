@@ -25,7 +25,7 @@ func NewRandomBalance(address []string) (*randomBalance, error) {
 	}
 
 	if data.length <= 0 {
-		return nil, errors.New("list is empty")
+		return nil, errors.New("address is empty")
 	}
 
 	return data, nil
